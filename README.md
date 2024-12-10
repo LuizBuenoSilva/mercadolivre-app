@@ -7,7 +7,7 @@ Breve descrição do projeto e suas funcionalidades principais.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuizBuenoSilva/mercadolivre-app.git)
+   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuizBuenoSilva/mercadolivre-app.git)
    cd seu-repositorio
    ```
 
@@ -63,3 +63,5 @@ Para gerar o token de acesso, siga os passos abaixo:
 Após configurar as variáveis de ambiente e obter o token de acesso, você pode rodar o projeto com o seguinte comando:
 
     -php artisan serve
+
+Caso precise de alguma informação relacitonada ao banco, minhas conexões estão dentro da env e ao clonar o projeto, não se esqueça de rodar o comando php artisan migrate
