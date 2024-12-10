@@ -7,7 +7,7 @@ Breve descrição do projeto e suas funcionalidades principais.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuizBuenoSilva/mercadolivre-app.git)
    cd seu-repositorio
    ```
 
